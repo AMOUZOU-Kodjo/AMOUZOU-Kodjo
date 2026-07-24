@@ -298,12 +298,12 @@ Je développe également des ressources pédagogiques autour de :
 <div align="center">
 
 
-<a href="mailto:votre-email@gmail.com">
+<a href="mailto:phipsipy@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
 
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/kodjo-amouzou-175268375">
 <img src="https://img.shields.io/badge/LinkedIn-AMOUZOU%20Kodjo-blue?style=for-the-badge&logo=linkedin">
 </a>
 
