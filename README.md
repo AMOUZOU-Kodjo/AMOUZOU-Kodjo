@@ -1,110 +1,330 @@
+<!-- 
+==================================================
+README PROFIL GITHUB
+Auteur : AMOUZOU Kodjo
+==================================================
+-->
+
+<div align="center">
+
+<img src="./assets/banner.png" width="100%" />
+
+<br/>
+
 # 👋 Bonjour, je suis AMOUZOU Kodjo
 
-## 🚀 Développeur Backend & Full Stack
+### 🚀 Backend Engineer | Full Stack Developer
 
-Je conçois des applications web modernes, performantes et évolutives avec une spécialisation en **Node.js**, **Express.js**, **PostgreSQL**, **Prisma ORM** et **React**.
+<p>
+Je conçois des applications web modernes, sécurisées et évolutives
+avec une spécialisation dans les architectures backend professionnelles.
+</p>
 
----
+<br/>
 
-## 💻 Stack technique
+<a href="https://github.com/AMOUZOU-Kodjo">
+<img src="https://komarev.com/ghpvc/?username=AMOUZOU-Kodjo&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 
-### Backend
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 ---
 
-### Frontend
+# 👨‍💻 À propos de moi
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+Je suis **AMOUZOU Kodjo**, développeur **Backend & Full Stack** passionné par la conception de solutions numériques robustes.
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+Mon objectif est de construire des applications capables de répondre aux exigences des environnements professionnels :
+
+- performance ;
+- sécurité ;
+- maintenabilité ;
+- évolutivité.
+
+
+Je travaille principalement sur :
+
+## ⚙️ Backend Engineering
+
+- Node.js
+- Express.js
+- REST API
+- Architecture MVC
+- Architecture modulaire
+- Authentification JWT
+- RBAC (Role Based Access Control)
+- Sécurité Web
+
+
+## 🗄️ Data Engineering
+
+- PostgreSQL
+- SQL avancé
+- Prisma ORM
+- Modélisation relationnelle
+- Optimisation des requêtes
+
+
+## 🎨 Frontend Development
+
+- React.js
+- Vite
+- Tailwind CSS
+- Responsive Design
+- UI moderne
+
+
+## 🚀 DevOps & outils
+
+- Git
+- GitHub
+- Docker
+- CI/CD
+- Linux
+- Postman
+- Swagger/OpenAPI
+
 
 ---
 
-### Outils
-
-Git
-
-GitHub
-
-Docker
-
-VS Code
-
-Postman
-
-Swagger
-
----
-
-# 📌 Projets principaux
+# 🏗️ Projets principaux
 
 ## 🌍 GlobalMarket
 
-Plateforme e-commerce internationale multi-vendeurs.
+### Marketplace internationale multi-vendeurs
 
-Technologies :
+Une plateforme e-commerce complète permettant :
 
-- Node.js
-- Express
-- PostgreSQL
-- Prisma
-- JWT
-- React
+- gestion des vendeurs ;
+- catalogue produits ;
+- commandes ;
+- paiements ;
+- authentification ;
+- administration.
+
+
+Stack :
+
+```
+Node.js
+Express
+PostgreSQL
+Prisma
+JWT
+React
+Docker
+```
+
+Repository :
+
+➡️ `github.com/AMOUZOU-Kodjo/globalmarket`
+
 
 ---
+
 
 ## 🏠 ChezMoiTogo
 
-Plateforme immobilière destinée à la diaspora.
+### Plateforme immobilière digitale
+
+Solution destinée à faciliter :
+
+- gestion immobilière ;
+- suivi de projets ;
+- communication avec la diaspora ;
+- gestion documentaire.
+
+
+Technologies :
+
+```
+React
+Node.js
+Express
+MongoDB
+Cloudinary
+JWT
+```
+
 
 ---
 
-## 🚗 Gestion Garage
 
-Application complète de gestion de garage.
+## 🚗 Garage Management System
+
+### Application professionnelle de gestion automobile
+
+Fonctionnalités :
+
+- réception véhicules ;
+- suivi réparations ;
+- gestion mécaniciens ;
+- espace directeur ;
+- historique interventions.
+
+
+Stack :
+
+```
+React
+Node.js
+Express
+Database
+REST API
+```
+
 
 ---
+
 
 ## ⛪ Church Management System
 
-Gestion d'église moderne.
+Application de gestion numérique pour communauté religieuse.
+
+Fonctionnalités :
+
+- événements ;
+- médias ;
+- programmes ;
+- administration ;
+- utilisateurs.
+
 
 ---
 
-# 📈 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMOUZOU-Kodjo&show_icons=true&theme=tokyonight)
+# 🛠️ Technologies & outils
+
+
+<div align="center">
+
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,jwt" />
+
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,javascript" />
+
+
+## Outils
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+
+
+</div>
+
 
 ---
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMOUZOU-Kodjo&layout=compact&theme=tokyonight)
+# 📊 Statistiques GitHub
+
+
+<div align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=AMOUZOU-Kodjo&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+
+<br/>
+
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMOUZOU-Kodjo&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+
+<br/>
+
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=AMOUZOU-Kodjo&theme=tokyonight&hide_border=true"
+/>
+
+
+</div>
+
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMOUZOU-Kodjo&theme=tokyonight)
+# 🏆 Objectifs professionnels
+
+
+Actuellement je développe mes compétences dans :
+
+
+- Architecture Backend avancée
+- Conception de systèmes distribués
+- Microservices
+- Cloud Computing
+- DevOps
+- Sécurité applicative
+- Architecture logicielle
+
 
 ---
 
-## 📫 Me contacter
+# 📚 Formation & partage
 
-📧 Email : phipsipy@gamil.com
 
-💼 LinkedIn : www.linkedin.com/in/kodjo-amouzou-175268375
+Je développe également des ressources pédagogiques autour de :
 
-🌐 Portfolio : [En cours de développement](https://portfolio-1kq8.onrender.com/)
+- JavaScript avancé
+- Node.js Backend
+- Express.js
+- PostgreSQL
+- Prisma ORM
+- API REST professionnelles
+
 
 ---
 
-## 🎯 Objectif 2026
+# 💡 Ma philosophie
 
-Construire des applications web modernes à grande échelle avec Node.js et React tout en partageant mes connaissances à travers des projets et des formations.
+
+> "Un logiciel professionnel n'est pas seulement un programme qui fonctionne.
+> C'est une solution pensée pour évoluer, être maintenue et créer de la valeur."
+
+
+---
+
+# 📫 Me contacter
+
+
+<div align="center">
+
+
+<a href="mailto:votre-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-AMOUZOU%20Kodjo-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+
+<a href="https://github.com/AMOUZOU-Kodjo">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+
+### 🚀 Building the future with clean code and great ideas.
+
+
+⭐ Merci de visiter mon profil !
+
+
+</div>
