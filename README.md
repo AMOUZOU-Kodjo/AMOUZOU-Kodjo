@@ -97,11 +97,11 @@ Gestion d'église moderne.
 
 ## 📫 Me contacter
 
-📧 Email : ton-email@example.com
+📧 Email : phipsipy@gamil.com
 
-💼 LinkedIn : À compléter
+💼 LinkedIn : www.linkedin.com/in/kodjo-amouzou-175268375
 
-🌐 Portfolio : En cours de développement
+🌐 Portfolio : [En cours de développement](https://portfolio-1kq8.onrender.com/)
 
 ---
 
