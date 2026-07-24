@@ -7,7 +7,7 @@ Auteur : AMOUZOU Kodjo
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
+<img src="./background.png" width="100%" />
 
 <br/>
 
