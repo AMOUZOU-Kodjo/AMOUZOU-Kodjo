@@ -291,7 +291,45 @@ Je développe également des ressources pédagogiques autour de :
 
 
 ---
+# 🔭 Currently Working On
 
+## 🌍 GlobalMarket — International Marketplace Platform
+
+Je développe actuellement **GlobalMarket**, une plateforme e-commerce multi-vendeurs conçue pour fonctionner à grande échelle.
+
+Objectifs techniques :
+
+- 🏗️ Concevoir une architecture backend professionnelle avec Node.js et Express.js
+- 🗄️ Modéliser une base de données relationnelle avec PostgreSQL
+- 🔄 Utiliser Prisma ORM pour une gestion moderne des données
+- 🔐 Implémenter une authentification sécurisée avec JWT
+- 👥 Développer un système de rôles et permissions (RBAC)
+- 📦 Construire une API REST complète
+- 🧪 Ajouter des tests automatisés
+- 🚀 Préparer le déploiement avec Docker et CI/CD
+
+
+Stack actuelle :
+
+Backend
+├── Node.js
+├── Express.js
+├── PostgreSQL
+├── Prisma ORM
+├── JWT
+└── Zod
+
+Frontend
+├── React
+├── Vite
+├── Tailwind CSS
+└── React Router
+
+DevOps
+├── GitHub Actions
+├── Docker
+└── Cloud Deployment
+---
 # 📫 Me contacter
 
 
